@@ -1,1 +1,169 @@
-<mxfile host="app.diagrams.net" modified="2020-12-25T01:51:38.514Z" agent="5.0 (X11)" etag="uCmT76C1WWdrlSqij9-n" version="14.1.2" type="github"><diagram id="NqNKSYQHm7YxjbogzM6p" name="Page-1">3ZfbbqMwEIafxpdZccZcQkrarlRppay22ksHHLBCMDXOofv0OwRzDKkSKdVqexPZ/4xP880YB5nz7fFRkCJ94THNkKHFR2Q+IMPADobfSnivBctSQiJYXEt6JyzZH6pETak7FtNy4Cg5zyQrhmLE85xGcqARIfhh6Lbm2XDVgiT0TFhGJDtXX1ksU3Usw+30J8qStFlZd7zasiWNszpJmZKYH3qSGSJzLjiXdWt7nNOsil0Tl3rc4oK13ZigubxmAN6Uzwnf/fr99Jibtvj+Gj+/zRSMPcl26sDIcDKYL4jZHppJ1Sw3rJppscn5IaMxBEz5gNZzmxiJQgdhH2ENhRhhEwUP1f5CF3kL5NuV6C8QdpqRKzGea7zCKZDyvaEDJ4REgE5wSJmky4JEleUAqQhaKrcZ9HRokrKos2PNjhQCEuypkAww+xlLctAlL9oF+jFVYa7c6bEnqRg/Ur6lUryDS2PFineT8Kp76LLH9JSW9jKnFYnK2KSduoMKDcX1BsbuNYwjUpAVy5hkUG3X422ohnbF2Qu+EklDtwckXfucpDFF0vgsks5V1Ur5evaDiogWkvH8Npgu8v1T0WLk6af6DJFvdRX7lfBa7rchYF1rlR5jw7bPGbfi3Rkb1zD+KQiTt9Spi7CHAq8iGljIx/8xNm8EzT5HpjsTZdmKd0emX4PshUu2v+XLebpRgRRUozdHgf8Pau8OuExzhMs7x4UnaOFPg6VdpLXmcMx+6Jy3HW8Ms/L0NgUMmo6LY2cc01h98HUElkDU1yvFCxHuI1xNYK13dIErEJBDgKUUfEPnPOMClJznFfQ1PN5GElFFGQFXKiaqdcviOLuUMYLv8rjKjwftTjmiGaOb2Jp4NenW1D18e5pAt3t0n2y9fy5m+Bc=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-25T02:23:02.903Z" agent="5.0 (X11)" etag="pNPzyB9QkWk7d2Qlo_aR" version="14.1.2" type="github">
+  <diagram id="NqNKSYQHm7YxjbogzM6p" name="Page-1">
+    <mxGraphModel dx="868" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8ksIgouVYHGn35rJWdIq-8" value="&lt;div&gt;skill/knowledge&lt;/div&gt;&lt;div&gt;技能/知识&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="180" y="40" width="390" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="8ksIgouVYHGn35rJWdIq-7" value="&lt;div&gt;capabilities&lt;/div&gt;&lt;div&gt;能力&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="215" y="75" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="8ksIgouVYHGn35rJWdIq-6" value="&lt;div&gt;seof-Perception&lt;/div&gt;&lt;div&gt;自我认知&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="247.5" y="107.5" width="255" height="255" as="geometry" />
+        </mxCell>
+        <mxCell id="8ksIgouVYHGn35rJWdIq-2" value="&lt;div&gt;Traits&lt;/div&gt;&lt;div&gt;特质&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="295" y="155" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="8ksIgouVYHGn35rJWdIq-1" value="&lt;div&gt;Motive&lt;/div&gt;&lt;div&gt;动机&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="335" y="195" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8ksIgouVYHGn35rJWdIq-10" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;能力模型&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="302.5" y="440" width="145" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wEtoji2qVTilrXCP2nl6-2" value="&lt;div&gt;skill/knowledge&lt;/div&gt;&lt;div&gt;技能/知识&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=top;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="180" y="560" width="390" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="wEtoji2qVTilrXCP2nl6-3" value="&lt;div&gt;capabilities&lt;/div&gt;&lt;div&gt;能力&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="215" y="595" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="wEtoji2qVTilrXCP2nl6-4" value="&lt;div&gt;seof-Perception&lt;/div&gt;&lt;div&gt;自我认知&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="247.5" y="627.5" width="255" height="255" as="geometry" />
+        </mxCell>
+        <mxCell id="wEtoji2qVTilrXCP2nl6-5" value="&lt;div&gt;Traits&lt;/div&gt;&lt;div&gt;特质&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=top;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="295" y="675" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="wEtoji2qVTilrXCP2nl6-6" value="&lt;div&gt;Motive&lt;/div&gt;&lt;div&gt;动机&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="335" y="715" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wEtoji2qVTilrXCP2nl6-7" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;能力模型&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="302.5" y="960" width="145" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wEtoji2qVTilrXCP2nl6-8" value="理财" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="500" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wEtoji2qVTilrXCP2nl6-10" value="教育" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="540" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wEtoji2qVTilrXCP2nl6-12" value="跑步" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="627.5" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wEtoji2qVTilrXCP2nl6-13" value="英语" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="584.5" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wEtoji2qVTilrXCP2nl6-14" value="专业" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="669.5" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wEtoji2qVTilrXCP2nl6-15" value="测试" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="639.5" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wEtoji2qVTilrXCP2nl6-17" value="IT" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="685" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wEtoji2qVTilrXCP2nl6-26" value="Android" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="720" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wEtoji2qVTilrXCP2nl6-30" value="团队管理" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="710" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wEtoji2qVTilrXCP2nl6-31" value="沟通能力" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="830" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wEtoji2qVTilrXCP2nl6-32" value="习惯培养" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="930" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wEtoji2qVTilrXCP2nl6-33" value="框架/模型化思维" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="863" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wEtoji2qVTilrXCP2nl6-34" value="时间管理" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="897" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wEtoji2qVTilrXCP2nl6-41" value="阳明心学" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="685" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wEtoji2qVTilrXCP2nl6-42" value="行动力" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="447.5" y="1023.98" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wEtoji2qVTilrXCP2nl6-43" value="空的概念" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="718" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wEtoji2qVTilrXCP2nl6-44" value="九型人格" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="447.5" y="990.98" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wEtoji2qVTilrXCP2nl6-49" value="自律" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="447.5" y="1060.98" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wEtoji2qVTilrXCP2nl6-50" value="我心光明" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="933" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wEtoji2qVTilrXCP2nl6-51" value="阿德勒/佛洛依德人性" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="900" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wEtoji2qVTilrXCP2nl6-52" value="三种驱动力" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="970" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wEtoji2qVTilrXCP2nl6-53" value="阿德勒人生的意义" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="750" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wEtoji2qVTilrXCP2nl6-54" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;rotation=-178;" vertex="1" parent="1">
+          <mxGeometry x="130.11" y="693.03" width="20.71" height="75.98" as="geometry" />
+        </mxCell>
+        <mxCell id="wEtoji2qVTilrXCP2nl6-55" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;entryX=0.1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wEtoji2qVTilrXCP2nl6-4" target="wEtoji2qVTilrXCP2nl6-54">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="880" as="sourcePoint" />
+            <mxPoint x="320" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wEtoji2qVTilrXCP2nl6-57" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;rotation=-178;" vertex="1" parent="1">
+          <mxGeometry x="180" y="915" width="20.71" height="75.98" as="geometry" />
+        </mxCell>
+        <mxCell id="wEtoji2qVTilrXCP2nl6-58" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;entryX=0.1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wEtoji2qVTilrXCP2nl6-6" target="wEtoji2qVTilrXCP2nl6-57">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="880" as="sourcePoint" />
+            <mxPoint x="320" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wEtoji2qVTilrXCP2nl6-59" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;size=0.5;" vertex="1" parent="1">
+          <mxGeometry x="427.5" y="994.47" width="20" height="89.02" as="geometry" />
+        </mxCell>
+        <mxCell id="wEtoji2qVTilrXCP2nl6-60" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="wEtoji2qVTilrXCP2nl6-5" target="wEtoji2qVTilrXCP2nl6-59">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="900" as="sourcePoint" />
+            <mxPoint x="320" y="850" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="375" y="940" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wEtoji2qVTilrXCP2nl6-61" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="835" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="wEtoji2qVTilrXCP2nl6-62" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;entryX=0.1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.931;exitY=0.775;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="wEtoji2qVTilrXCP2nl6-3" target="wEtoji2qVTilrXCP2nl6-61">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="900" as="sourcePoint" />
+            <mxPoint x="320" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wEtoji2qVTilrXCP2nl6-63" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="507.5" width="20" height="212.5" as="geometry" />
+        </mxCell>
+        <mxCell id="wEtoji2qVTilrXCP2nl6-64" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;entryX=0.1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wEtoji2qVTilrXCP2nl6-2" target="wEtoji2qVTilrXCP2nl6-63">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="780" as="sourcePoint" />
+            <mxPoint x="320" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wEtoji2qVTilrXCP2nl6-65" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="660" width="20" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wEtoji2qVTilrXCP2nl6-66" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="wEtoji2qVTilrXCP2nl6-14" target="wEtoji2qVTilrXCP2nl6-65">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="680" as="sourcePoint" />
+            <mxPoint x="620" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
