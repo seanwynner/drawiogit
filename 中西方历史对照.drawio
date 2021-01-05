@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-01-05T12:42:59.590Z" agent="5.0 (X11)" etag="Hh4od7V-G-8uPBytmzoh" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-05T13:07:21.824Z" agent="5.0 (X11)" etag="Esfptt8njFBuvADzOsEr" version="14.1.8" type="github">
   <diagram id="l9XU566XNp9PI93VXc15" name="Page-1">
     <mxGraphModel dx="868" dy="448" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="tGUGthGcGomPQQDadQoO-15" value="Pool" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;horizontal=0;horizontalStack=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="110" width="1810" height="260" as="geometry" />
+          <mxGeometry x="10" y="110" width="1930" height="260" as="geometry" />
         </mxCell>
         <mxCell id="tGUGthGcGomPQQDadQoO-71" value="约4万年~1.5万年前" style="swimlane;html=1;startSize=20;" vertex="1" parent="tGUGthGcGomPQQDadQoO-15">
           <mxGeometry x="20" width="320" height="260" as="geometry" />
@@ -28,28 +28,46 @@
         <mxCell id="tGUGthGcGomPQQDadQoO-45" value="BC4000" style="swimlane;html=1;startSize=20;" vertex="1" parent="tGUGthGcGomPQQDadQoO-15">
           <mxGeometry x="1020" width="190" height="260" as="geometry" />
         </mxCell>
+        <mxCell id="tGUGthGcGomPQQDadQoO-98" value="&lt;div&gt;BC2070-1600，夏朝&lt;br&gt;&lt;/div&gt;&lt;div&gt;中国进入“青铜时代”&lt;/div&gt;" style="verticalLabelPosition=top;verticalAlign=bottom;html=1;shape=mxgraph.flowchart.on-page_reference;labelPosition=center;align=center;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="tGUGthGcGomPQQDadQoO-45">
+          <mxGeometry x="110" y="115" width="30" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="tGUGthGcGomPQQDadQoO-17" value="Lane 2" style="swimlane;html=1;startSize=20;" vertex="1" parent="tGUGthGcGomPQQDadQoO-15">
-          <mxGeometry x="1210" width="120" height="260" as="geometry" />
+          <mxGeometry x="1210" width="240" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="tGUGthGcGomPQQDadQoO-103" value="&lt;div&gt;BC1600，商朝&lt;/div&gt;&lt;div&gt;甲骨文&lt;/div&gt;" style="verticalLabelPosition=top;verticalAlign=bottom;html=1;shape=mxgraph.flowchart.on-page_reference;labelPosition=center;align=center;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="tGUGthGcGomPQQDadQoO-17">
+          <mxGeometry x="200" y="115" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tGUGthGcGomPQQDadQoO-18" value="Lane 3" style="swimlane;html=1;startSize=20;" vertex="1" parent="tGUGthGcGomPQQDadQoO-15">
-          <mxGeometry x="1330" width="120" height="260" as="geometry">
-            <mxRectangle x="260" width="30" height="260" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tGUGthGcGomPQQDadQoO-42" value="Lane 3" style="swimlane;html=1;startSize=20;" vertex="1" parent="tGUGthGcGomPQQDadQoO-15">
           <mxGeometry x="1450" width="120" height="260" as="geometry">
             <mxRectangle x="260" width="30" height="260" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tGUGthGcGomPQQDadQoO-43" value="Lane 3" style="swimlane;html=1;startSize=20;" vertex="1" parent="tGUGthGcGomPQQDadQoO-15">
+        <mxCell id="tGUGthGcGomPQQDadQoO-42" value="Lane 3" style="swimlane;html=1;startSize=20;" vertex="1" parent="tGUGthGcGomPQQDadQoO-15">
           <mxGeometry x="1570" width="120" height="260" as="geometry">
             <mxRectangle x="260" width="30" height="260" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tGUGthGcGomPQQDadQoO-44" value="Lane 3" style="swimlane;html=1;startSize=20;" vertex="1" parent="tGUGthGcGomPQQDadQoO-15">
+        <mxCell id="tGUGthGcGomPQQDadQoO-43" value="Lane 3" style="swimlane;html=1;startSize=20;" vertex="1" parent="tGUGthGcGomPQQDadQoO-15">
           <mxGeometry x="1690" width="120" height="260" as="geometry">
             <mxRectangle x="260" width="30" height="260" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="tGUGthGcGomPQQDadQoO-115" value="&lt;div&gt;1046~771年&lt;/div&gt;&lt;div&gt;西周&lt;/div&gt;" style="verticalLabelPosition=top;verticalAlign=bottom;html=1;shape=mxgraph.flowchart.on-page_reference;labelPosition=center;align=center;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="tGUGthGcGomPQQDadQoO-43">
+          <mxGeometry x="90" y="115" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tGUGthGcGomPQQDadQoO-44" value="Lane 3" style="swimlane;html=1;startSize=20;" vertex="1" parent="tGUGthGcGomPQQDadQoO-15">
+          <mxGeometry x="1810" width="120" height="260" as="geometry">
+            <mxRectangle x="260" width="30" height="260" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tGUGthGcGomPQQDadQoO-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="tGUGthGcGomPQQDadQoO-15" source="tGUGthGcGomPQQDadQoO-78" target="tGUGthGcGomPQQDadQoO-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tGUGthGcGomPQQDadQoO-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="tGUGthGcGomPQQDadQoO-15" source="tGUGthGcGomPQQDadQoO-98" target="tGUGthGcGomPQQDadQoO-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tGUGthGcGomPQQDadQoO-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="tGUGthGcGomPQQDadQoO-15" source="tGUGthGcGomPQQDadQoO-103" target="tGUGthGcGomPQQDadQoO-115">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tGUGthGcGomPQQDadQoO-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tGUGthGcGomPQQDadQoO-49" target="tGUGthGcGomPQQDadQoO-53">
           <mxGeometry relative="1" as="geometry">
@@ -60,19 +78,19 @@
           <mxGeometry x="140" y="225" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tGUGthGcGomPQQDadQoO-55" value="Pool" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;horizontal=0;horizontalStack=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="370" width="1490" height="260" as="geometry" />
+          <mxGeometry x="10" y="370" width="1810" height="460" as="geometry" />
         </mxCell>
         <mxCell id="tGUGthGcGomPQQDadQoO-56" value="约4万年~1.5万年前" style="swimlane;html=1;startSize=20;" vertex="1" parent="tGUGthGcGomPQQDadQoO-55">
-          <mxGeometry x="20" width="320" height="260" as="geometry" />
+          <mxGeometry x="20" width="320" height="460" as="geometry" />
         </mxCell>
         <mxCell id="tGUGthGcGomPQQDadQoO-57" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;" vertex="1" parent="tGUGthGcGomPQQDadQoO-56">
           <mxGeometry y="115" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tGUGthGcGomPQQDadQoO-58" value="BC4000" style="swimlane;html=1;startSize=20;" vertex="1" parent="tGUGthGcGomPQQDadQoO-55">
-          <mxGeometry x="340" width="360" height="260" as="geometry" />
+          <mxGeometry x="340" width="360" height="460" as="geometry" />
         </mxCell>
         <mxCell id="tGUGthGcGomPQQDadQoO-59" value="BC4000" style="swimlane;html=1;startSize=20;" vertex="1" parent="tGUGthGcGomPQQDadQoO-55">
-          <mxGeometry x="700" width="190" height="260" as="geometry" />
+          <mxGeometry x="700" width="320" height="460" as="geometry" />
         </mxCell>
         <mxCell id="tGUGthGcGomPQQDadQoO-69" value="BC4000，埃及青铜器，青铜时代" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="tGUGthGcGomPQQDadQoO-59">
           <mxGeometry x="40" y="115" width="30" height="30" as="geometry" />
@@ -86,31 +104,55 @@
         <mxCell id="tGUGthGcGomPQQDadQoO-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="tGUGthGcGomPQQDadQoO-59" source="tGUGthGcGomPQQDadQoO-69" target="tGUGthGcGomPQQDadQoO-80">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tGUGthGcGomPQQDadQoO-96" value="&lt;div&gt;约2400~1700年&lt;/div&gt;&lt;div&gt;印度河流域哈拉巴文化&lt;/div&gt;" style="verticalLabelPosition=top;verticalAlign=bottom;html=1;shape=mxgraph.flowchart.on-page_reference;labelPosition=center;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="tGUGthGcGomPQQDadQoO-59">
-          <mxGeometry x="140" y="220" width="30" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="tGUGthGcGomPQQDadQoO-60" value="Lane 2" style="swimlane;html=1;startSize=20;" vertex="1" parent="tGUGthGcGomPQQDadQoO-55">
-          <mxGeometry x="890" width="120" height="260" as="geometry" />
+          <mxGeometry x="1020" width="190" height="460" as="geometry" />
         </mxCell>
         <mxCell id="tGUGthGcGomPQQDadQoO-61" value="Lane 3" style="swimlane;html=1;startSize=20;" vertex="1" parent="tGUGthGcGomPQQDadQoO-55">
-          <mxGeometry x="1010" width="120" height="260" as="geometry">
+          <mxGeometry x="1210" width="240" height="460" as="geometry">
             <mxRectangle x="260" width="30" height="260" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tGUGthGcGomPQQDadQoO-62" value="Lane 3" style="swimlane;html=1;startSize=20;" vertex="1" parent="tGUGthGcGomPQQDadQoO-55">
-          <mxGeometry x="1130" width="120" height="260" as="geometry">
+          <mxGeometry x="1450" width="120" height="460" as="geometry">
             <mxRectangle x="260" width="30" height="260" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="tGUGthGcGomPQQDadQoO-100" value="&lt;div&gt;BC2000&lt;/div&gt;&lt;div&gt;古巴比伦王国第一王朝&lt;/div&gt;" style="verticalLabelPosition=top;verticalAlign=bottom;html=1;shape=mxgraph.flowchart.on-page_reference;labelPosition=center;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="tGUGthGcGomPQQDadQoO-62">
+          <mxGeometry y="60" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tGUGthGcGomPQQDadQoO-102" value="&lt;div&gt;BC2000&lt;/div&gt;&lt;div&gt;克里特岛出现奴隶制国家，古希腊文明发源&lt;/div&gt;" style="verticalLabelPosition=top;verticalAlign=bottom;html=1;shape=mxgraph.flowchart.on-page_reference;labelPosition=center;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="tGUGthGcGomPQQDadQoO-62">
+          <mxGeometry y="215" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tGUGthGcGomPQQDadQoO-63" value="Lane 3" style="swimlane;html=1;startSize=20;" vertex="1" parent="tGUGthGcGomPQQDadQoO-55">
-          <mxGeometry x="1250" width="120" height="260" as="geometry">
+          <mxGeometry x="1570" width="120" height="460" as="geometry">
             <mxRectangle x="260" width="30" height="260" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="tGUGthGcGomPQQDadQoO-105" value="&lt;p&gt;1567~1085年埃及新王国时期&lt;/p&gt;" style="verticalLabelPosition=top;verticalAlign=bottom;html=1;shape=mxgraph.flowchart.on-page_reference;fillColor=#fad7ac;strokeColor=#b46504;labelPosition=center;align=center;spacing=2;" vertex="1" parent="tGUGthGcGomPQQDadQoO-63">
+          <mxGeometry x="30" y="115" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tGUGthGcGomPQQDadQoO-111" value="&lt;p&gt;1450~1100年，&lt;/p&gt;&lt;p&gt;希腊迈锡尼文明鼎盛&lt;/p&gt;" style="verticalLabelPosition=top;verticalAlign=bottom;html=1;shape=mxgraph.flowchart.on-page_reference;labelPosition=center;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="tGUGthGcGomPQQDadQoO-63">
+          <mxGeometry x="50" y="215" width="30" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="tGUGthGcGomPQQDadQoO-64" value="Lane 3" style="swimlane;html=1;startSize=20;" vertex="1" parent="tGUGthGcGomPQQDadQoO-55">
-          <mxGeometry x="1370" width="120" height="260" as="geometry">
+          <mxGeometry x="1690" width="120" height="460" as="geometry">
             <mxRectangle x="260" width="30" height="260" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="tGUGthGcGomPQQDadQoO-113" value="&lt;div&gt;BC 11到9世纪&lt;/div&gt;&lt;div&gt;希腊人“荷马时代”&lt;/div&gt;" style="verticalLabelPosition=top;verticalAlign=bottom;html=1;shape=mxgraph.flowchart.on-page_reference;labelPosition=center;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="tGUGthGcGomPQQDadQoO-64">
+          <mxGeometry x="40" y="215" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tGUGthGcGomPQQDadQoO-101" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="tGUGthGcGomPQQDadQoO-55" source="tGUGthGcGomPQQDadQoO-70" target="tGUGthGcGomPQQDadQoO-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tGUGthGcGomPQQDadQoO-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="tGUGthGcGomPQQDadQoO-55" source="tGUGthGcGomPQQDadQoO-80" target="tGUGthGcGomPQQDadQoO-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tGUGthGcGomPQQDadQoO-112" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="tGUGthGcGomPQQDadQoO-55" source="tGUGthGcGomPQQDadQoO-102" target="tGUGthGcGomPQQDadQoO-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tGUGthGcGomPQQDadQoO-114" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="tGUGthGcGomPQQDadQoO-55" source="tGUGthGcGomPQQDadQoO-111" target="tGUGthGcGomPQQDadQoO-113">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tGUGthGcGomPQQDadQoO-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tGUGthGcGomPQQDadQoO-66" target="tGUGthGcGomPQQDadQoO-69">
           <mxGeometry relative="1" as="geometry" />
@@ -129,6 +171,15 @@
         </mxCell>
         <mxCell id="tGUGthGcGomPQQDadQoO-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tGUGthGcGomPQQDadQoO-53" target="tGUGthGcGomPQQDadQoO-76">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tGUGthGcGomPQQDadQoO-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="tGUGthGcGomPQQDadQoO-96" target="tGUGthGcGomPQQDadQoO-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tGUGthGcGomPQQDadQoO-96" value="&lt;div&gt;约2400~1700年&lt;/div&gt;&lt;div&gt;印度河流域哈拉巴文化&lt;/div&gt;" style="verticalLabelPosition=top;verticalAlign=bottom;html=1;shape=mxgraph.flowchart.on-page_reference;labelPosition=center;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="860" y="710" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tGUGthGcGomPQQDadQoO-107" value="&lt;div&gt;BC1500-BC1000&lt;/div&gt;&lt;div&gt;雅利安人入侵印度，古印度前吠陀时期&lt;/div&gt;" style="verticalLabelPosition=top;verticalAlign=bottom;html=1;shape=mxgraph.flowchart.on-page_reference;labelPosition=center;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="710" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
